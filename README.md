@@ -39,6 +39,10 @@ The dataset contains retail sales transactions with fields such as:
 - Easy-to-read **sales KPIs**  
 
 ---
+## Dashboard image
+
+![Retail Sales Dashboard](dashboard_image.png)
+
 
 ## 🚀 How to Run  
 1. Import the dataset into **PostgreSQL** and run SQL queries for cleaning and summarization  
@@ -54,3 +58,4 @@ The dataset contains retail sales transactions with fields such as:
 - Automate data pipeline (ETL) for real-time reporting  
 
  
+
